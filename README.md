@@ -4,7 +4,6 @@ A `README.md` file is a very useful component of any project repository. As you 
 
 ## Data
 
-If the repository does not contain a data folder, [download] a zipped data file to accompany the worksheets. 
-
+If the repository does not contain a data folder, [download] 
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
